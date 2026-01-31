@@ -128,4 +128,4 @@ You can enable module debugging in WHMCS:
 
 ## Disclaimer
 
-This is a third-party integration and is not officially affiliated with or endorsed by Spaceship.
+This is a third-party integration and is not officially affiliated with or endorsed by Spaceship. It has been adopted from RN Digital Operations, as the original owner decided to completely cease all development work.
