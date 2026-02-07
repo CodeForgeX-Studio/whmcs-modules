@@ -1,7 +1,7 @@
 {
     "name": "Spaceship",
     "description": "Domain registration and management module for WHMCS.",
-    "version": "v1.0",
+    "version": "v1.1",
     "author": "CodeForgeX Studio",
     "fields": {
         "APIKey": {
