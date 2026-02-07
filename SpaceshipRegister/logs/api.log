@@ -1,0 +1,2 @@
+{"timestamp":"2026-01-31 12:16:28","level":"ERROR","message":"Error registering domain: API credentials are missing."}
+{"timestamp":"2026-01-31 13:46:12","level":"WARNING","message":"Warning: Could not verify registrar lock after update: Request rate limit exceeded."}

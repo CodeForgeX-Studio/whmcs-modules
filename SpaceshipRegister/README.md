@@ -127,13 +127,11 @@ You can enable module debugging in WHMCS:
 * Retry the action to capture API responses
 
 ## Known Issues
-
-- Nameserver updates sometimes fail to apply correctly.  
+ 
 - The Auto Renew status does not always update properly.  
-- Register Lock synchronization is inconsistent in certain cases.  
 - Other issues may exist but have not yet been identified.  
 
-We are actively working on version **1.1**, which will address these known problems.  
+We are actively working on version **1.2**, which will address these known problems.  
 If you encounter any additional issues not listed here, please let us know so we can include them in the next update.
 
 ## Disclaimer
