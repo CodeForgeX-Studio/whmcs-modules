@@ -14,7 +14,7 @@ If you discover a potential security vulnerability, we encourage you to report i
 
 ### How to Report
 
-1. **Email**: Send a detailed description of the vulnerability to support@rndigitaloperations.com.
+1. **Email**: Send a detailed description of the vulnerability to hello@codeforgex.studio.
 2. **Details to Include**:
    - A detailed description of the vulnerability
    - The version(s) of the project affected
@@ -55,4 +55,4 @@ We recommend following these general best practices to secure your use of this p
 - Regularly audit your environment and the services that interact with this project for potential security risks.
 - Review and follow the latest security advisories related to your version of the project.
 
-For any security questions or concerns, please contact us at support@rndigitaloperations.com.
+For any security questions or concerns, please contact us at hello@codeforgex.studio.
