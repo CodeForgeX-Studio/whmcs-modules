@@ -1,0 +1,1 @@
+Here you will find all the images you upload via the extension such as the custom favicon and more

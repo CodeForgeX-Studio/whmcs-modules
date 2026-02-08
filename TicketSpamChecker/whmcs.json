@@ -1,0 +1,30 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "ticketspamchecker",
+  "version": "1.3.4",
+  "category": "utilities",
+  "description": {
+    "name": "Ticket Spam Checker",
+    "tagline": "The ticket system efficiently processes tickets based on specific settings.",
+    "long": "The ticket management system is designed to efficiently handle incoming tickets based on specific configurations and settings.",
+    "features": [
+      "Monitoring Ticket Volume",
+      "Configuration Settings",
+      "Timeframe for Monitoring",
+      "Criteria for Closure"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "support_url": "https:\/\/codeforgex.studio\/contact"
+  },
+  "authors": [
+    {
+      "name": "CodeForgeX Studio",
+      "homepage": "https:\/\/codeforgex.studio\/"
+    }
+  ]
+}
